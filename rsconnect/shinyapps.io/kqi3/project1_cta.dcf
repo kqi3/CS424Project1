@@ -1,0 +1,13 @@
+name: project1_cta
+title: project1_cta
+username:
+account: kqi3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5641728
+bundleId: 5573552
+url: https://kqi3.shinyapps.io/project1_cta/
+when: 1644720811.45442
+lastSyncTime: 1644720811.4545
+asMultiple: FALSE
+asStatic: FALSE
